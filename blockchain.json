@@ -1,0 +1,42 @@
+[
+    {
+        "voter": "Test",
+        "candidate": "vijay",
+        "party": "TVK tamizhaga vetri kazhagam "
+    },
+    {
+        "voter": "Test",
+        "candidate": "vijay",
+        "party": "TVK tamizhaga vetri kazhagam "
+    },
+    {
+        "voter": "ranjitha",
+        "candidate": "vijay",
+        "party": "TVK tamizhaga vetri kazhagam "
+    },
+    {
+        "voter": "harish",
+        "candidate": "vijay",
+        "party": "TVK tamizhaga vetri kazhagam "
+    },
+    {
+        "voter": "Sujitha Ravi",
+        "candidate": "Premallatha Vijayakant",
+        "party": "DMDK Desiya Murpokku Dravida Kazhagam"
+    },
+    {
+        "voter": "sabrin",
+        "candidate": "vijay",
+        "party": "TVK tamizhaga vetri kazhagam "
+    },
+    {
+        "voter": "sita",
+        "candidate": "stalin",
+        "party": "DMK Dravida Munnetra Kazhagam"
+    },
+    {
+        "voter": "ramya",
+        "candidate": "SHANMUGAM",
+        "party": "CPI Communist Party of India (Marxist)"
+    }
+]
