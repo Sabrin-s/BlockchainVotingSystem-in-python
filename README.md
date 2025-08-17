@@ -7,6 +7,7 @@ Python programming for the backend logic.
 Blockchain data structure to store votes securely in blocks.
 
 #Features
+
 Each vote is recorded as a transaction on the blockchain.
 Votes are stored in blocks that are immutable and tamper-resistant.
 The system ensures only authorized voters can participate.
